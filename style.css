@@ -1,0 +1,15 @@
+.poco1{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:center;
+    color:aliceblue
+}
+
+body{
+    background-image: url(flag1.jpg);
+    background-color:yellowgreen;
+    text-decoration-line: underline;
+    text-decoration-color:greenyellow;
+    background-size: 100%;
+    font-size: 30px;
+}
